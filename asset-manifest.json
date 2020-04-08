@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/jokeapp/static/css/main.de7a7aed.chunk.css",
+    "main.css": "/jokeapp/static/css/main.5a983a47.chunk.css",
     "main.js": "/jokeapp/static/js/main.61d26528.chunk.js",
     "main.js.map": "/jokeapp/static/js/main.61d26528.chunk.js.map",
     "runtime-main.js": "/jokeapp/static/js/runtime-main.96100d20.js",
@@ -9,10 +9,10 @@
     "static/js/2.15595e9e.chunk.js": "/jokeapp/static/js/2.15595e9e.chunk.js",
     "static/js/2.15595e9e.chunk.js.map": "/jokeapp/static/js/2.15595e9e.chunk.js.map",
     "index.html": "/jokeapp/index.html",
-    "precache-manifest.df36b424e8a8209b06415c6d4bd9064e.js": "/jokeapp/precache-manifest.df36b424e8a8209b06415c6d4bd9064e.js",
+    "precache-manifest.665fc4fea5de5561209a8763814794c9.js": "/jokeapp/precache-manifest.665fc4fea5de5561209a8763814794c9.js",
     "service-worker.js": "/jokeapp/service-worker.js",
     "static/css/2.20e5802c.chunk.css.map": "/jokeapp/static/css/2.20e5802c.chunk.css.map",
-    "static/css/main.de7a7aed.chunk.css.map": "/jokeapp/static/css/main.de7a7aed.chunk.css.map",
+    "static/css/main.5a983a47.chunk.css.map": "/jokeapp/static/css/main.5a983a47.chunk.css.map",
     "static/js/2.15595e9e.chunk.js.LICENSE.txt": "/jokeapp/static/js/2.15595e9e.chunk.js.LICENSE.txt",
     "static/media/font-awesome.css": "/jokeapp/static/media/fontawesome-webfont.fee66e71.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.96100d20.js",
     "static/css/2.20e5802c.chunk.css",
     "static/js/2.15595e9e.chunk.js",
-    "static/css/main.de7a7aed.chunk.css",
+    "static/css/main.5a983a47.chunk.css",
     "static/js/main.61d26528.chunk.js"
   ]
 }
